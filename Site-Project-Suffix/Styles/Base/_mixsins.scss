@@ -1,0 +1,6 @@
+
+@mixin Flex($d-flex, $j-c__center, $a-items__center){
+	display:$d-flex;
+	justify-content:$j-c__center;
+	align-items: $a-items__center;
+}
